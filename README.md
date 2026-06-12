@@ -233,6 +233,4 @@ Use SHAP to:
 * Tushar (23321031)
 * Sumit Kulhari (23118075)
 
-## License
 
-This project is intended for educational and academic purposes.
